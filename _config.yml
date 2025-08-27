@@ -1,0 +1,15 @@
+# --- Site config ---
+title: "Cheve | Data & Ops"
+author: "Juan Pablo Echeverría"
+description: "Portafolio y blog: ciencia de datos, dashboards en Plotly y operaciones Comex."
+
+# Tema del curso
+theme: minima
+
+# Opcional (recomendado para repositorios de proyecto)
+# url: "https://cheve17.github.io"
+# baseurl: "/skills-github-pages"
+
+# Links sociales (opcional)
+github_username: cheve17
+# twitter_username: tuusuario
